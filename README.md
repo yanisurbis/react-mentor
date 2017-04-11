@@ -17,3 +17,26 @@
   + yarn start (npm start)
 + see result in your browser
 
+## 1 - ES6
++ [slides](http://slides.com/yanisurbis/deck-1)
++ почитать
+  + [области видимости и замыкания](https://learn.javascript.ru/functions-closures)
+  + [this in JS](https://learn.javascript.ru/objects-more)
+  + ES2015
+    + [let & const](https://learn.javascript.ru/let-const)
+    + [destructuring](https://learn.javascript.ru/destructuring)
+    + [es-function](https://learn.javascript.ru/es-function)
+    + [es-string](https://learn.javascript.ru/es-string)
++ задания
+  + #1
+    + использовать string literals
+    + в переменной должно оказаться либо "It's day now" или "It's night now"
+  + #2
+    + написать функцию
+    + использовать arrow function
+    + функция принимает массив и индекс
+    + возвращается новый массив без одного элемента(да, индекс указывает на этот элемент)
+    + использовать spread
+  + #3
+    + посмотреть на задания из слайдов
+

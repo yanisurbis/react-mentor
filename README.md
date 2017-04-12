@@ -39,4 +39,5 @@
     + использовать spread
   + #3
     + посмотреть на задания из слайдов
+  + [решения](https://gist.github.com/yanisurbis/bb0fbf6b4fc70ab3426da3d40f71eb97)
 

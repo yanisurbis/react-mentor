@@ -42,7 +42,7 @@
   + [решения](https://gist.github.com/yanisurbis/bb0fbf6b4fc70ab3426da3d40f71eb97)
 
 ##2 - React I
-  + [slides](http://slides.com/yanisurbis/react-i#/)
+  + 
   + задание
     + по времени ~ 15 min
     + [структура](http://i.imgur.com/pkdI3zw.png)
@@ -51,4 +51,14 @@
       + прямоугольники с большой буквы - компоненты
       + text - текст, в компонент можно не выделять
       + постараться использовать как умные, так и глупые компоненты
+
+##3 - React II
+  + [setup](https://codesandbox.io/s/vgxKB6g2n) для выполнения задания
+  + задание
+    + добавить три кнопки: "add 10", "add 100", "add 1000"
+  + теория
+    + EN - все до [handling events](https://facebook.github.io/react/docs/handling-events.html)
+    + RU - [аналогично](https://habrahabr.ru/post/315466/)
+
+
 

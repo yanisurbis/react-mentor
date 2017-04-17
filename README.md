@@ -42,7 +42,6 @@
   + [решения](https://gist.github.com/yanisurbis/bb0fbf6b4fc70ab3426da3d40f71eb97)
 
 ##2 - React 1
-  + 
   + задание
     + по времени ~ 15 min
     + [структура](http://i.imgur.com/pkdI3zw.png)
